@@ -1,7 +1,5 @@
-# CSCE1015caa0291
+CSCE1015
+EUID
 caa0291
-Hochstetler
-caa0291
-Hochstetler
-caa0291
+Favorite Professor
 Hochstetler
